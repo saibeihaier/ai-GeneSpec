@@ -1,5 +1,3 @@
-"""基因解释器 – 将 gene_spec.json 转化为运行时策略"""
-
 import json
 import jsonschema
 from typing import Any, Dict, Tuple
